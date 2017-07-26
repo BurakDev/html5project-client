@@ -1,0 +1,241 @@
+{
+    "__config__": {
+        "name": "h5client",
+        "resources": [
+            "./h5client-spritesheet.json",
+            "../fonts/habbo.fnt",
+            "../fonts/volter.fnt"
+        ]
+    },
+
+    "default": {
+        "scale": 0.5,
+        "bg": " ",
+        "corner": " ",
+        "line": " ",
+        "font": {
+            "size": "13px",
+            "family": "Arial",
+            "color": "black"
+        }
+    },
+    "Window": {
+        "padding": 11,
+        "bgPadding": 11,
+        "bg": "window/background.png",
+        "corner-tl": { "default": "window/top-left-corner.png" },
+        "corner-tr": { "default": "window/top-right-corner.png" },
+        "corner-bl": { "default": "window/bottom-left-corner.png" },
+        "corner-br": { "default": "window/bottom-right-corner.png" },
+        "line-t": { "default": "window/top-line.png" },
+        "line-r": { "default": "window/right-line.png" },
+        "line-b": { "default": "window/bottom-line.png" },
+        "line-l": { "default": "window/left-line.png" }
+    },
+    "windowheader": {
+        "padding": 11,
+        "bgPadding": 11,
+        "bg": "window/header/background.png",
+        "font": {
+            "size": "16px",
+            "color": "white",
+            "fontWeight": "bold"
+        },
+        "corner-tl": { "default": "window/header/top-left-corner.png" },
+        "corner-tr": { "default": "window/header/top-right-corner.png" },
+        "corner-bl": { "default": "window/header/bottom-left-corner.png" },
+        "corner-br": { "default": "window/header/bottom-right-corner.png" },
+        "line-t": { "default": "window/header/top-line.png" },
+        "line-r": { "default": "window/header/right-line.png" },
+        "line-b": { "default": "window/header/bottom-line.png" },
+        "line-l": { "default": "window/header/left-line.png" }
+    },
+    "mainmenu": {
+        "image": "mainmenu/background.png",
+        "header": {
+            "image": "mainmenu/top.png",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+
+            "width": 70,
+            "height": 79
+        },
+
+        "position": {
+            "x": 0,
+            "y": 0
+        },
+
+        "width": 72
+    },
+    "Button": {
+        "bgPadding": 7,
+        "bg": { 
+            "default": "tab/background.png", 
+            "down": "tab/active-background.png",
+            "hover": "tab/hover-background.png"
+         },
+        "corner-tl": { 
+            "default": "tab/top-left-corner.png", 
+            "down": "tab/active-top-left-corner.png",
+            "hover": "tab/hover-top-left-corner.png"
+        },
+        "corner-tr": { 
+            "default": "tab/top-right-corner.png", 
+            "down": "tab/active-top-right-corner.png",
+            "hover": "tab/hover-top-right-corner.png"
+        },
+        "corner-bl": { 
+            "default": "tab/bottom-left-corner.png", 
+            "down": "tab/active-bottom-left-corner.png",
+            "hover": "tab/hover-bottom-left-corner.png"
+        },
+        "corner-br": { 
+            "default": "tab/bottom-right-corner.png", 
+            "down": "tab/active-bottom-right-corner.png",
+            "hover": "tab/hover-bottom-right-corner.png"
+        },
+        "line-t": { 
+            "default": "tab/top-line.png", 
+            "down": "tab/active-top-line.png",
+            "hover": "tab/hover-top-line.png"
+        },
+        "line-r": { 
+            "default": "tab/right-line.png", 
+            "down": "tab/active-right-line.png",
+            "hover": "tab/hover-right-line.png"
+        },
+        "line-b": { 
+            "default": "tab/bottom-line.png", 
+            "down": "tab/active-bottom-line.png",
+            "hover": "tab/hover-bottom-line.png"
+        },
+        "line-l": { 
+            "default": "tab/left-line.png", 
+            "down": "tab/active-left-line.png",
+            "hover": "tab/hover-left-line.png"
+        }
+    },
+    "buttonred": {
+        "bgPadding": 6,
+        "bg": { "default": "button/red/background.png" },
+        "font": {
+            "color": "white",
+            "fontWeight": "bold"
+        },
+        "corner-tl": { "default": "button/red/top-left-corner.png" },
+        "corner-tr": { "default": "button/red/top-right-corner.png" },
+        "corner-bl": { "default": "button/red/bottom-left-corner.png" },
+        "corner-br": { "default": "button/red/bottom-right-corner.png" },
+        "line-t": { "default": "button/red/top-line.png" },
+        "line-r": { "default": "button/red/right-line.png" },
+        "line-b": { "default": "button/red/bottom-line.png" },
+        "line-l": { "default": "button/red/left-line.png" }
+    },
+    "buttongreen": {
+        "bgPadding": 6,
+        "bg": { "default": "button/green/background.png" },
+        "font": {
+            "color": "white",
+            "fontWeight": "bold"
+        },
+        "corner-tl": { "default": "button/green/top-left-corner.png" },
+        "corner-tr": { "default": "button/green/top-right-corner.png" },
+        "corner-bl": { "default": "button/green/bottom-left-corner.png" },
+        "corner-br": { "default": "button/green/bottom-right-corner.png" },
+        "line-t": { "default": "button/green/top-line.png" },
+        "line-r": { "default": "button/green/right-line.png" },
+        "line-b": { "default": "button/green/bottom-line.png" },
+        "line-l": { "default": "button/green/left-line.png" }
+    },
+    "buttonnavigator": {
+        "scale": 1,
+        "image": {
+            "default": "mainmenu/buttons/navigator.png",
+            "hover": "mainmenu/buttons/navigator_hover.png",
+            "down": "mainmenu/buttons/navigator_active.png"
+        },
+        "height": 33
+    },
+    "Checkbox": {
+        "bgPadding": 4,
+        "bg": "checkbox/background.png",
+        "corner": { 
+            "default": "checkbox/corner.png",
+            "checked": "checkbox/active-corner.png"
+        },
+        "line": { 
+            "default": "checkbox/line.png",
+            "checked": "checkbox/active-line.png"
+        },
+        "checkmark": "checkbox/checkmark.png"
+    },
+    "navigatorprivateodditem": {
+        "bgPadding": 3,
+        "bg": {
+            "default": "navigator/items/private/item_odd_background.png",
+            "hover": "navigator/items/private/item_hover_background.png"
+        },
+        "line": {
+            "default": "navigator/items/private/item_odd_line.png",
+            "hover": "navigator/items/private/item_hover_line.png"
+        },
+        "corner": {
+            "default": "navigator/items/private/item_odd_corner.png",
+            "hover": "navigator/items/private/item_hover_corner.png"
+        }
+    },
+    "navigatorprivateevenitem": {
+        "bgPadding": 3,
+        "bg": {
+            "default": "navigator/items/private/item_even_background.png",
+            "hover": "navigator/items/private/item_hover_background.png"
+        },
+        "line": {
+            "default": "navigator/items/private/item_even_line.png",
+            "hover": "navigator/items/private/item_hover_line.png"
+        },
+        "corner": {
+            "default": "navigator/items/private/item_even_corner.png",
+            "hover": "navigator/items/private/item_hover_corner.png"
+        }
+    },
+    "navigatoremptyroom": {
+        "bgPadding": 3,
+        "bg": "navigator/items/inroom/empty_background.png",
+        "line": "navigator/items/inroom/empty_line.png",
+        "corner": "navigator/items/inroom/empty_corner.png",
+        "font": {
+            "color": "white"
+        }
+    },
+    "navigatorlowroom": {
+        "bgPadding": 3,
+        "bg": "navigator/items/inroom/low_background.png",
+        "line": "navigator/items/inroom/low_line.png",
+        "corner": "navigator/items/inroom/low_corner.png",
+        "font": {
+            "color": "white"
+        }
+    },
+    "navigatormediumroom": {
+        "bgPadding": 3,
+        "bg": "navigator/items/inroom/medium_background.png",
+        "line": "navigator/items/inroom/medium_line.png",
+        "corner": "navigator/items/inroom/medium_corner.png",
+        "font": {
+            "color": "white"
+        }
+    },
+    "navigatorhighroom": {
+        "bgPadding": 3,
+        "bg": "navigator/items/inroom/high_background.png",
+        "line": "navigator/items/inroom/high_line.png",
+        "corner": "navigator/items/inroom/high_corner.png",
+        "font": {
+            "color": "white"
+        }
+    }
+}

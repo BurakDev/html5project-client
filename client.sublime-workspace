@@ -1,0 +1,1317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"furni",
+				"furnitureSprite\tlet"
+			],
+			[
+				"load",
+				"loadRoom\tfunction"
+			],
+			[
+				"Fur",
+				"FurnitureSprite\talias"
+			],
+			[
+				"floor",
+				"floorMaxY\tlet"
+			],
+			[
+				"flo",
+				"floorSprite\tlet"
+			],
+			[
+				"le",
+				"leftWall\tproperty"
+			],
+			[
+				"ch",
+				"charAt\tmethod"
+			],
+			[
+				"ad",
+				"addChild\tmethod"
+			],
+			[
+				"remov",
+				"removeChildren\tmethod"
+			],
+			[
+				"room",
+				"roomContainer\tlet"
+			],
+			[
+				"set",
+				"setColor\tmethod"
+			],
+			[
+				"roo",
+				"roomY\tproperty"
+			],
+			[
+				"furn",
+				"furnitureData\tparameter"
+			],
+			[
+				"fur",
+				"furnitureData\tparameter"
+			],
+			[
+				"WI",
+				"WINDOW_HOTELVIEW\tconst"
+			],
+			[
+				"WIN",
+				"WINDOW_NAVIGATOR\tconst"
+			],
+			[
+				"dis",
+				"displayWindow\tfunction"
+			],
+			[
+				"WIND",
+				"WINDOW_NAVIGATOR\tconst"
+			],
+			[
+				"getS",
+				"getScreenY\tmethod"
+			],
+			[
+				"ti",
+				"tileHeight\tproperty"
+			],
+			[
+				"tile",
+				"tileWidth\tproperty"
+			],
+			[
+				"rea",
+				"realTileHeight\tproperty"
+			],
+			[
+				"real",
+				"realTileWidth\tproperty"
+			],
+			[
+				"Furn",
+				"FurnitureSprite\tscript"
+			],
+			[
+				"inn",
+				"innerWidth\tproperty"
+			],
+			[
+				"bac",
+				"backgroundGradient\tproperty"
+			],
+			[
+				"f",
+				"fromImage\tmethod"
+			],
+			[
+				"ini",
+				"initBackgroundImage\tmethod"
+			],
+			[
+				"ba",
+				"backgroundGradient\tproperty"
+			],
+			[
+				"back",
+				"initBackgroundRight\tmethod"
+			],
+			[
+				"fro",
+				"fromImage\tmethod"
+			],
+			[
+				"Ex",
+				"extras\tmodule"
+			],
+			[
+				"priv",
+				"privateItem\tlet"
+			],
+			[
+				"Co",
+				"components\tvar"
+			],
+			[
+				"in",
+				"inroomMax\tproperty"
+			],
+			[
+				"inroo",
+				"inroomSkin\tlet"
+			],
+			[
+				"priva",
+				"privateItem\talias"
+			],
+			[
+				"inr",
+				"inroomMax"
+			],
+			[
+				"sta",
+				"stage\tproperty"
+			],
+			[
+				"gui",
+				"guiContainer\tlet"
+			],
+			[
+				"c",
+				"create\tfunction"
+			],
+			[
+				"start",
+				"start\tmethod"
+			],
+			[
+				"army",
+				"armyOfficeTentSprite\tlet"
+			],
+			[
+				"arm",
+				"armyOfficeTentSprite\tlet"
+			],
+			[
+				"ads",
+				"adsCalipFanSprite\tlet"
+			],
+			[
+				"adsCllava",
+				"adsCllava2Sprite\tlet"
+			],
+			[
+				"get",
+				"getColorFrom\tmethod"
+			],
+			[
+				"layer",
+				"layerId\tlet"
+			],
+			[
+				"has",
+				"hasColorForLayer\tmethod"
+			],
+			[
+				"hasC",
+				"hasColorForLayer\tmethod"
+			],
+			[
+				"to",
+				"toGlobal\tmethod"
+			],
+			[
+				"con",
+				"container\tlet"
+			],
+			[
+				"adsC",
+				"adsCalipFanSprite\tlet"
+			],
+			[
+				"dire",
+				"directionIndex\tlet"
+			],
+			[
+				"adsCa",
+				"adsCalipFanFurni\tlet"
+			],
+			[
+				"draw",
+				"drawRect\tmethod"
+			],
+			[
+				"adsCalipCo",
+				"adsCalipColaSprite\tlet"
+			],
+			[
+				"pix",
+				"pixiAlpha\tlet"
+			],
+			[
+				"fram",
+				"frameIndex\tlet"
+			],
+			[
+				"rem",
+				"removeChildren\tmethod"
+			],
+			[
+				"frame",
+				"frameIndex\tlet"
+			],
+			[
+				"Tex",
+				"Texture\tclass"
+			],
+			[
+				"lo",
+				"loading\tproperty"
+			],
+			[
+				"spri",
+				"spritesheetUrl\tlet"
+			],
+			[
+				"sub",
+				"substring\tmethod"
+			],
+			[
+				"spr",
+				"spritesheetName\tlet"
+			],
+			[
+				"resour",
+				"resourcePath\tlet"
+			],
+			[
+				"met",
+				"metaData\tproperty"
+			],
+			[
+				"Load",
+				"loaders\tmodule"
+			],
+			[
+				"Loa",
+				"loaders\tmodule"
+			],
+			[
+				"l",
+				"loaders\tmodule"
+			],
+			[
+				"Furni",
+				"FurnitureData\talias"
+			],
+			[
+				"upda",
+				"updateFurnitureView\tmethod"
+			],
+			[
+				"up",
+				"updateSpriteFromDirection\tmethod"
+			],
+			[
+				"hasCo",
+				"hasColor\tmethod"
+			],
+			[
+				"di",
+				"directions\tproperty"
+			],
+			[
+				"tri",
+				"ticker\tmodule"
+			],
+			[
+				"hasAn",
+				"hasAnimation\tmethod"
+			],
+			[
+				"upd",
+				"updateView\tmethod"
+			],
+			[
+				"cur",
+				"currentFrameCount\tproperty"
+			],
+			[
+				"co",
+				"CONST\tmodule"
+			],
+			[
+				"as",
+				"assetName\tlet"
+			],
+			[
+				"ass",
+				"assetName\tlet"
+			],
+			[
+				"hasA",
+				"hasAsset\tmethod"
+			],
+			[
+				"fr",
+				"fromFrame\tmethod"
+			],
+			[
+				"an",
+				"angle\tproperty"
+			],
+			[
+				"hasDi",
+				"hasDirectionLayer\tmethod"
+			],
+			[
+				"i",
+				"ignoreMouse\tproperty"
+			],
+			[
+				"Ble",
+				"BLEND_MODES\tconst"
+			],
+			[
+				"a",
+				"alpha\tproperty"
+			],
+			[
+				"laye",
+				"layerData\tlet"
+			],
+			[
+				"hasLa",
+				"hasLayers\tmethod"
+			],
+			[
+				"fra",
+				"frameRepeat\tproperty"
+			],
+			[
+				"ani",
+				"animationLayer\tlet"
+			],
+			[
+				"IC",
+				"IColorLayer\tinterface"
+			],
+			[
+				"p",
+				"pixi.js\texternal module name"
+			],
+			[
+				"IA",
+				"IAnimationLayer\tinterface"
+			],
+			[
+				"my",
+				"myNavigatorWindow2\tlet"
+			],
+			[
+				"HTMLC",
+				"HTMLCanvasElement\tinterface"
+			],
+			[
+				"navi",
+				"navigatorWindow\tlet"
+			],
+			[
+				"rend",
+				"renderer\tproperty"
+			],
+			[
+				"re",
+				"resize\tmethod"
+			],
+			[
+				"inner",
+				"innerHeight\tproperty"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"Lo",
+				"loaders\tmodule"
+			],
+			[
+				"sp",
+				"Spritesheet\tclass"
+			],
+			[
+				"type",
+				"typescript\tdirectory"
+			],
+			[
+				"res",
+				"resourceBaseDir"
+			],
+			[
+				"move",
+				"moveResourceDir"
+			],
+			[
+				"clea",
+				"cleanOutputDir"
+			],
+			[
+				"path",
+				"paths"
+			],
+			[
+				"typ",
+				"typeScriptEntries"
+			],
+			[
+				"sqlsrv_",
+				"sqlsrv_query"
+			],
+			[
+				"sqlsr",
+				"sqlsrv_errors"
+			],
+			[
+				"sqlsrv",
+				"sqlsrv_query"
+			],
+			[
+				"exi",
+				"existResult"
+			],
+			[
+				"Pass",
+				"PassagierVoorVlucht"
+			],
+			[
+				"balie",
+				"balienummer"
+			],
+			[
+				"resulta",
+				"resultaten"
+			],
+			[
+				"passa",
+				"passagiernummer"
+			],
+			[
+				"ob_",
+				"ob_get_clean"
+			],
+			[
+				"face",
+				"facebookService"
+			],
+			[
+				"response",
+				"responseBody"
+			],
+			[
+				"F",
+				"FrontendController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "PIXI.loader.use(loaders.furnitureLoader)\n        .add([\n            \"/furnitures/ads_calip_fan/ads_calip_fan.json\",\n            \"/furnitures/ads_calip_cola/ads_calip_cola.json\",\n            \"/furnitures/ads_cllava2/ads_cllava2.json\",\n            \"/furnitures/army_c15_officetent/army_c15_officetent.json\",\n            \"/furnitures/ads_calip_pool/ads_calip_pool.json\"])\n        .load(() => {\n            let adsCalipFanSprite = furniture.createSprite(\"ads_calip_fan\");\n            adsCalipFanSprite.setDirection(0);\n            adsCalipFanSprite.animateAndStart(1);\n            adsCalipFanSprite.x = 200;\n            adsCalipFanSprite.y = 200;\n\n            application.stage.addChild(adsCalipFanSprite);\n\n            let adsCalipFanSprite1 = furniture.createSprite(\"ads_calip_fan\");\n            adsCalipFanSprite1.setDirection(2);\n            adsCalipFanSprite1.animateAndStart(1);\n            adsCalipFanSprite1.x = 300;\n            adsCalipFanSprite1.y = 200;\n\n            application.stage.addChild(adsCalipFanSprite1);\n\n            let adsCalipFanSprite2 = furniture.createSprite(\"ads_calip_fan\");\n            adsCalipFanSprite2.setDirection(4);\n            adsCalipFanSprite2.animateAndStart(1);\n            adsCalipFanSprite2.x = 200;\n            adsCalipFanSprite2.y = 300;\n\n            application.stage.addChild(adsCalipFanSprite2);\n\n            let adsCalipFanSprite3 = furniture.createSprite(\"ads_calip_fan\");\n            adsCalipFanSprite3.setDirection(6);\n            adsCalipFanSprite3.animateAndStart(1);\n            adsCalipFanSprite3.x = 300;\n            adsCalipFanSprite3.y = 300;\n\n            application.stage.addChild(adsCalipFanSprite3);\n\n            let adsCalipColaSprite = furniture.createSprite(\"ads_calip_cola\");\n            adsCalipColaSprite.setColor(0);\n            adsCalipColaSprite.start();\n\n            adsCalipColaSprite.x = 400;\n            adsCalipColaSprite.y = 200;\n\n            application.stage.addChild(adsCalipColaSprite);\n\n            let adsCalipColaSprite1 = furniture.createSprite(\"ads_calip_cola\");\n            adsCalipColaSprite1.setColor(1);\n            adsCalipColaSprite1.start();\n\n            adsCalipColaSprite1.x = 400;\n            adsCalipColaSprite1.y = 300;\n\n            application.stage.addChild(adsCalipColaSprite1);\n\n            let adsCalipColaSprite2 = furniture.createSprite(\"ads_calip_cola\");\n            adsCalipColaSprite2.setColor(4);\n            adsCalipColaSprite2.start();\n\n            adsCalipColaSprite2.x = 500;\n            adsCalipColaSprite2.y = 200;\n\n            application.stage.addChild(adsCalipColaSprite2);\n\n            let adsCalipColaSprite3 = furniture.createSprite(\"ads_calip_cola\");\n            adsCalipColaSprite3.setColor(3);\n            adsCalipColaSprite3.start();\n\n            adsCalipColaSprite3.x = 500;\n            adsCalipColaSprite3.y = 300;\n\n            application.stage.addChild(adsCalipColaSprite3);\n\n            let adsCllava2Sprite = furniture.createSprite(\"ads_cllava2\");\n            adsCllava2Sprite.animateAndStart(0);\n            \n            adsCllava2Sprite.x = 600;\n            adsCllava2Sprite.y = 200;\n\n            application.stage.addChild(adsCllava2Sprite);\n\n            let armyOfficeTentSprite = furniture.createSprite(\"army_c15_officetent\");\n            armyOfficeTentSprite.start();\n\n            armyOfficeTentSprite.x = 700;\n            armyOfficeTentSprite.y = 300;\n\n            application.stage.addChild(armyOfficeTentSprite);\n\n            ///ads_calip_pool\n            let adsCalipPoolSprite = furniture.createSprite(\"ads_calip_pool\");\n            adsCalipPoolSprite.start();\n\n            adsCalipPoolSprite.x = 850;\n            adsCalipPoolSprite.y = 200;\n\n            application.stage.addChild(adsCalipPoolSprite);\n        });",
+			"settings":
+			{
+				"buffer_size": 3754,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/gui/index.ts",
+			"settings":
+			{
+				"buffer_size": 1260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/gui/navigator/NavigatorWindow.ts",
+			"settings":
+			{
+				"buffer_size": 1244,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/gui/navigator/template.ts",
+			"settings":
+			{
+				"buffer_size": 3240,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/index.ts",
+			"settings":
+			{
+				"buffer_size": 4550,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  \"type\": \"furniture\",\n  \"name\": \"ads_cllava2\",\n  \"visualizationType\": \"furniture_animated\",\n  \"logicType\": \"furniture_multistate\",\n  \"spritesheet\": \"ads_cllava2_spritesheet.json\",\n  \"dimensions\": {\n    \"x\": 1,\n    \"y\": 1,\n    \"z\": 0.0\n  },\n  \"directions\": [\n    0\n  ],\n  \"assets\": {\n    \"ads_cllava2_64_c_0_68\": {\n      \"x\": 16,\n      \"y\": 48\n    },\n    \"ads_cllava2_64_c_0_67\": {\n      \"x\": 16,\n      \"y\": 50\n    },\n    \"ads_cllava2_64_c_0_69\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_64\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_64_c_0_63\": {\n      \"x\": 16,\n      \"y\": 66\n    },\n    \"ads_cllava2_64_c_0_66\": {\n      \"x\": 16,\n      \"y\": 53\n    },\n    \"ads_cllava2_64_c_0_65\": {\n      \"x\": 16,\n      \"y\": 56\n    },\n    \"ads_cllava2_64_c_0_60\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_c_0_62\": {\n      \"x\": 16,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_c_0_61\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_32_b_0_0\": {\n      \"x\": 9,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_57\": {\n      \"x\": 17,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_c_0_56\": {\n      \"x\": 17,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_c_0_59\": {\n      \"x\": 16,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_c_0_58\": {\n      \"x\": 16,\n      \"y\": 71\n    },\n    \"ads_cllava2_64_c_0_53\": {\n      \"x\": 17,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_c_0_52\": {\n      \"x\": 17,\n      \"y\": 63\n    },\n    \"ads_cllava2_64_c_0_55\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_a_0_0\": {\n      \"x\": 19,\n      \"y\": 96\n    },\n    \"ads_cllava2_64_c_0_54\": {\n      \"x\": 16,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_c_0_51\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_64_c_0_50\": {\n      \"x\": 16,\n      \"y\": 57\n    },\n    \"ads_cllava2_32_d_0_12\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_13\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_10\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_11\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_16\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_17\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_14\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_15\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_18\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_19\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_icon_a\": {\n      \"x\": 6,\n      \"y\": 15\n    },\n    \"ads_cllava2_64_c_0_89\": {\n      \"x\": 16,\n      \"y\": 33\n    },\n    \"ads_cllava2_64_c_0_86\": {\n      \"x\": 16,\n      \"y\": 40\n    },\n    \"ads_cllava2_64_c_0_85\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_88\": {\n      \"x\": 16,\n      \"y\": 32\n    },\n    \"ads_cllava2_64_c_0_87\": {\n      \"x\": 16,\n      \"y\": 36\n    },\n    \"ads_cllava2_64_c_0_82\": {\n      \"x\": 16,\n      \"y\": 53\n    },\n    \"ads_cllava2_64_c_0_81\": {\n      \"x\": 16,\n      \"y\": 56\n    },\n    \"ads_cllava2_64_c_0_84\": {\n      \"x\": 16,\n      \"y\": 48\n    },\n    \"ads_cllava2_64_c_0_83\": {\n      \"x\": 16,\n      \"y\": 50\n    },\n    \"ads_cllava2_64_c_0_90\": {\n      \"x\": 16,\n      \"y\": 31\n    },\n    \"ads_cllava2_32_e_0_0\": {\n      \"x\": 8,\n      \"y\": 46\n    },\n    \"ads_cllava2_64_sd_0_0\": {\n      \"x\": 21,\n      \"y\": 10\n    },\n    \"ads_cllava2_64_c_0_79\": {\n      \"x\": 16,\n      \"y\": 66\n    },\n    \"ads_cllava2_64_c_0_78\": {\n      \"x\": 16,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_c_0_75\": {\n      \"x\": 16,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_c_0_74\": {\n      \"x\": 16,\n      \"y\": 31\n    },\n    \"ads_cllava2_64_c_0_77\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_c_0_76\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_c_0_71\": {\n      \"x\": 16,\n      \"y\": 36\n    },\n    \"ads_cllava2_64_c_0_70\": {\n      \"x\": 16,\n      \"y\": 40\n    },\n    \"ads_cllava2_64_c_0_73\": {\n      \"x\": 16,\n      \"y\": 33\n    },\n    \"ads_cllava2_64_c_0_72\": {\n      \"x\": 16,\n      \"y\": 32\n    },\n    \"ads_cllava2_64_c_0_80\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_32_d_0_41\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_39\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_d_0_42\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_40\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_a_0_0\": {\n      \"x\": 9,\n      \"y\": 47\n    },\n    \"ads_cllava2_32_c_0_36\": {\n      \"x\": 6,\n      \"y\": 17\n    },\n    \"ads_cllava2_32_d_0_45\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_35\": {\n      \"x\": 7,\n      \"y\": 20\n    },\n    \"ads_cllava2_32_d_0_46\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_38\": {\n      \"x\": 6,\n      \"y\": 34\n    },\n    \"ads_cllava2_32_d_0_43\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_37\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_d_0_44\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_32\": {\n      \"x\": 6,\n      \"y\": 25\n    },\n    \"ads_cllava2_32_c_0_31\": {\n      \"x\": 6,\n      \"y\": 27\n    },\n    \"ads_cllava2_32_c_0_34\": {\n      \"x\": 6,\n      \"y\": 22\n    },\n    \"ads_cllava2_32_d_0_47\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_33\": {\n      \"x\": 7,\n      \"y\": 23\n    },\n    \"ads_cllava2_32_d_0_48\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_c_0_30\": {\n      \"x\": 7,\n      \"y\": 28\n    },\n    \"ads_cllava2_64_b_0_0\": {\n      \"x\": 19,\n      \"y\": 90\n    },\n    \"ads_cllava2_32_c_0_47\": {\n      \"x\": 6,\n      \"y\": 20\n    },\n    \"ads_cllava2_32_c_0_46\": {\n      \"x\": 6,\n      \"y\": 22\n    },\n    \"ads_cllava2_32_c_0_48\": {\n      \"x\": 6,\n      \"y\": 17\n    },\n    \"ads_cllava2_32_c_0_43\": {\n      \"x\": 6,\n      \"y\": 27\n    },\n    \"ads_cllava2_32_c_0_42\": {\n      \"x\": 6,\n      \"y\": 28\n    },\n    \"ads_cllava2_32_c_0_45\": {\n      \"x\": 6,\n      \"y\": 23\n    },\n    \"ads_cllava2_32_c_0_44\": {\n      \"x\": 6,\n      \"y\": 25\n    },\n    \"ads_cllava2_32_c_0_41\": {\n      \"x\": 6,\n      \"y\": 30\n    },\n    \"ads_cllava2_32_c_0_40\": {\n      \"x\": 6,\n      \"y\": 31\n    },\n    \"ads_cllava2_32_d_0_20\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_23\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_24\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_21\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_22\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_27\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_28\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_25\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_26\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_29\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_d_0_83\": {\n      \"x\": 28,\n      \"y\": 62\n    },\n    \"ads_cllava2_64_d_0_82\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_d_0_85\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_84\": {\n      \"x\": 28,\n      \"y\": 59\n    },\n    \"ads_cllava2_64_d_0_87\": {\n      \"x\": 28,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_d_0_86\": {\n      \"x\": 28,\n      \"y\": 51\n    },\n    \"ads_cllava2_64_d_0_89\": {\n      \"x\": 28,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_d_0_88\": {\n      \"x\": 28,\n      \"y\": 43\n    },\n    \"ads_cllava2_32_f_0_0\": {\n      \"x\": 20,\n      \"y\": 59\n    },\n    \"ads_cllava2_32_d_0_30\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_31\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_34\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_35\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_32\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_33\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_38\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_39\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_36\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_37\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_d_0_90\": {\n      \"x\": 28,\n      \"y\": 43\n    },\n    \"ads_cllava2_64_d_0_72\": {\n      \"x\": 28,\n      \"y\": 43\n    },\n    \"ads_cllava2_64_c_0_0\": {\n      \"x\": 16,\n      \"y\": 30\n    },\n    \"ads_cllava2_64_d_0_71\": {\n      \"x\": 28,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_c_0_1\": {\n      \"x\": 16,\n      \"y\": 33\n    },\n    \"ads_cllava2_64_d_0_74\": {\n      \"x\": 28,\n      \"y\": 43\n    },\n    \"ads_cllava2_64_c_0_2\": {\n      \"x\": 16,\n      \"y\": 37\n    },\n    \"ads_cllava2_64_d_0_73\": {\n      \"x\": 28,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_3\": {\n      \"x\": 16,\n      \"y\": 41\n    },\n    \"ads_cllava2_64_d_0_76\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_c_0_4\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_d_0_75\": {\n      \"x\": 28,\n      \"y\": 80\n    },\n    \"ads_cllava2_64_c_0_5\": {\n      \"x\": 16,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_d_0_78\": {\n      \"x\": 28,\n      \"y\": 80\n    },\n    \"ads_cllava2_64_c_0_6\": {\n      \"x\": 16,\n      \"y\": 50\n    },\n    \"ads_cllava2_64_d_0_77\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_79\": {\n      \"x\": 28,\n      \"y\": 78\n    },\n    \"ads_cllava2_64_c_0_7\": {\n      \"x\": 16,\n      \"y\": 54\n    },\n    \"ads_cllava2_64_c_0_8\": {\n      \"x\": 16,\n      \"y\": 57\n    },\n    \"ads_cllava2_64_c_0_9\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_64_d_0_81\": {\n      \"x\": 28,\n      \"y\": 67\n    },\n    \"ads_cllava2_64_d_0_80\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_d_0_61\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_60\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_63\": {\n      \"x\": 28,\n      \"y\": 78\n    },\n    \"ads_cllava2_64_d_0_62\": {\n      \"x\": 28,\n      \"y\": 80\n    },\n    \"ads_cllava2_64_d_0_65\": {\n      \"x\": 28,\n      \"y\": 67\n    },\n    \"ads_cllava2_64_d_0_64\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_d_0_67\": {\n      \"x\": 28,\n      \"y\": 62\n    },\n    \"ads_cllava2_64_d_0_66\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_d_0_69\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_68\": {\n      \"x\": 28,\n      \"y\": 59\n    },\n    \"ads_cllava2_64_d_0_70\": {\n      \"x\": 28,\n      \"y\": 51\n    },\n    \"ads_cllava2_64_d_0_50\": {\n      \"x\": 28,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_d_0_52\": {\n      \"x\": 29,\n      \"y\": 75\n    },\n    \"ads_cllava2_64_d_0_51\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_d_0_54\": {\n      \"x\": 29,\n      \"y\": 79\n    },\n    \"ads_cllava2_64_d_0_53\": {\n      \"x\": 29,\n      \"y\": 77\n    },\n    \"ads_cllava2_64_d_0_56\": {\n      \"x\": 29,\n      \"y\": 83\n    },\n    \"ads_cllava2_64_d_0_55\": {\n      \"x\": 29,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_58\": {\n      \"x\": 29,\n      \"y\": 82\n    },\n    \"ads_cllava2_64_d_0_57\": {\n      \"x\": 29,\n      \"y\": 82\n    },\n    \"ads_cllava2_64_d_0_59\": {\n      \"x\": 28,\n      \"y\": 80\n    },\n    \"ads_cllava2_32_c_0_18\": {\n      \"x\": 6,\n      \"y\": 27\n    },\n    \"ads_cllava2_32_c_0_17\": {\n      \"x\": 6,\n      \"y\": 25\n    },\n    \"ads_cllava2_32_c_0_19\": {\n      \"x\": 7,\n      \"y\": 28\n    },\n    \"ads_cllava2_32_c_0_14\": {\n      \"x\": 6,\n      \"y\": 20\n    },\n    \"ads_cllava2_32_c_0_13\": {\n      \"x\": 6,\n      \"y\": 18\n    },\n    \"ads_cllava2_32_c_0_16\": {\n      \"x\": 6,\n      \"y\": 24\n    },\n    \"ads_cllava2_32_c_0_15\": {\n      \"x\": 6,\n      \"y\": 22\n    },\n    \"ads_cllava2_32_c_0_10\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_c_0_12\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_c_0_11\": {\n      \"x\": 6,\n      \"y\": 34\n    },\n    \"ads_cllava2_64_d_0_41\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_40\": {\n      \"x\": 28,\n      \"y\": 79\n    },\n    \"ads_cllava2_64_d_0_43\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_42\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_d_0_45\": {\n      \"x\": 28,\n      \"y\": 48\n    },\n    \"ads_cllava2_64_d_0_44\": {\n      \"x\": 28,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_d_0_47\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_46\": {\n      \"x\": 28,\n      \"y\": 52\n    },\n    \"ads_cllava2_64_d_0_49\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_d_0_48\": {\n      \"x\": 28,\n      \"y\": 59\n    },\n    \"ads_cllava2_32_c_0_29\": {\n      \"x\": 6,\n      \"y\": 30\n    },\n    \"ads_cllava2_32_c_0_28\": {\n      \"x\": 7,\n      \"y\": 31\n    },\n    \"ads_cllava2_32_c_0_25\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_c_0_24\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_c_0_27\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_32_c_0_26\": {\n      \"x\": 7,\n      \"y\": 34\n    },\n    \"ads_cllava2_32_c_0_21\": {\n      \"x\": 7,\n      \"y\": 31\n    },\n    \"ads_cllava2_32_c_0_20\": {\n      \"x\": 6,\n      \"y\": 30\n    },\n    \"ads_cllava2_32_c_0_23\": {\n      \"x\": 7,\n      \"y\": 34\n    },\n    \"ads_cllava2_32_c_0_22\": {\n      \"x\": 6,\n      \"y\": 33\n    },\n    \"ads_cllava2_64_f_0_0\": {\n      \"x\": 30,\n      \"y\": 108\n    },\n    \"ads_cllava2_64_c_0_28\": {\n      \"x\": 16,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_c_0_27\": {\n      \"x\": 16,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_d_0_30\": {\n      \"x\": 28,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_29\": {\n      \"x\": 16,\n      \"y\": 71\n    },\n    \"ads_cllava2_64_c_0_24\": {\n      \"x\": 16,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_d_0_32\": {\n      \"x\": 28,\n      \"y\": 52\n    },\n    \"ads_cllava2_64_d_0_8\": {\n      \"x\": 28,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_c_0_23\": {\n      \"x\": 16,\n      \"y\": 63\n    },\n    \"ads_cllava2_64_d_0_31\": {\n      \"x\": 28,\n      \"y\": 48\n    },\n    \"ads_cllava2_64_d_0_9\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_c_0_26\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_d_0_34\": {\n      \"x\": 28,\n      \"y\": 58\n    },\n    \"ads_cllava2_64_d_0_6\": {\n      \"x\": 28,\n      \"y\": 61\n    },\n    \"ads_cllava2_64_c_0_25\": {\n      \"x\": 16,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_d_0_33\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_7\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_c_0_20\": {\n      \"x\": 16,\n      \"y\": 53\n    },\n    \"ads_cllava2_64_d_0_36\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_32_sd_0_0\": {\n      \"x\": 8,\n      \"y\": 3\n    },\n    \"ads_cllava2_64_d_0_35\": {\n      \"x\": 28,\n      \"y\": 61\n    },\n    \"ads_cllava2_64_c_0_22\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_64_d_0_38\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_c_0_21\": {\n      \"x\": 16,\n      \"y\": 57\n    },\n    \"ads_cllava2_64_d_0_37\": {\n      \"x\": 28,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_d_0_39\": {\n      \"x\": 28,\n      \"y\": 76\n    },\n    \"ads_cllava2_64_d_0_4\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_5\": {\n      \"x\": 28,\n      \"y\": 58\n    },\n    \"ads_cllava2_64_d_0_2\": {\n      \"x\": 28,\n      \"y\": 48\n    },\n    \"ads_cllava2_64_d_0_3\": {\n      \"x\": 28,\n      \"y\": 52\n    },\n    \"ads_cllava2_64_d_0_0\": {\n      \"x\": 28,\n      \"y\": 42\n    },\n    \"ads_cllava2_64_d_0_1\": {\n      \"x\": 28,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_17\": {\n      \"x\": 16,\n      \"y\": 41\n    },\n    \"ads_cllava2_64_c_0_16\": {\n      \"x\": 16,\n      \"y\": 36\n    },\n    \"ads_cllava2_64_c_0_19\": {\n      \"x\": 16,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_c_0_18\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_13\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_d_0_21\": {\n      \"x\": 28,\n      \"y\": 69\n    },\n    \"ads_cllava2_64_c_0_12\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_d_0_20\": {\n      \"x\": 28,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_c_0_15\": {\n      \"x\": 16,\n      \"y\": 32\n    },\n    \"ads_cllava2_64_d_0_23\": {\n      \"x\": 29,\n      \"y\": 75\n    },\n    \"ads_cllava2_64_c_0_14\": {\n      \"x\": 16,\n      \"y\": 71\n    },\n    \"ads_cllava2_64_d_0_22\": {\n      \"x\": 28,\n      \"y\": 72\n    },\n    \"ads_cllava2_64_d_0_25\": {\n      \"x\": 29,\n      \"y\": 79\n    },\n    \"ads_cllava2_32_c_0_6\": {\n      \"x\": 6,\n      \"y\": 27\n    },\n    \"ads_cllava2_64_d_0_24\": {\n      \"x\": 29,\n      \"y\": 77\n    },\n    \"ads_cllava2_32_c_0_7\": {\n      \"x\": 6,\n      \"y\": 28\n    },\n    \"ads_cllava2_64_c_0_11\": {\n      \"x\": 16,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_d_0_27\": {\n      \"x\": 29,\n      \"y\": 83\n    },\n    \"ads_cllava2_32_c_0_8\": {\n      \"x\": 6,\n      \"y\": 30\n    },\n    \"ads_cllava2_64_c_0_10\": {\n      \"x\": 16,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_d_0_26\": {\n      \"x\": 29,\n      \"y\": 81\n    },\n    \"ads_cllava2_32_c_0_9\": {\n      \"x\": 6,\n      \"y\": 31\n    },\n    \"ads_cllava2_64_d_0_29\": {\n      \"x\": 29,\n      \"y\": 82\n    },\n    \"ads_cllava2_64_d_0_28\": {\n      \"x\": 29,\n      \"y\": 82\n    },\n    \"ads_cllava2_32_c_0_0\": {\n      \"x\": 6,\n      \"y\": 15\n    },\n    \"ads_cllava2_32_c_0_1\": {\n      \"x\": 6,\n      \"y\": 18\n    },\n    \"ads_cllava2_32_c_0_2\": {\n      \"x\": 6,\n      \"y\": 20\n    },\n    \"ads_cllava2_32_c_0_3\": {\n      \"x\": 6,\n      \"y\": 22\n    },\n    \"ads_cllava2_32_c_0_4\": {\n      \"x\": 6,\n      \"y\": 24\n    },\n    \"ads_cllava2_32_c_0_5\": {\n      \"x\": 6,\n      \"y\": 25\n    },\n    \"ads_cllava2_64_c_0_49\": {\n      \"x\": 16,\n      \"y\": 53\n    },\n    \"ads_cllava2_64_c_0_46\": {\n      \"x\": 16,\n      \"y\": 41\n    },\n    \"ads_cllava2_64_d_0_10\": {\n      \"x\": 28,\n      \"y\": 76\n    },\n    \"ads_cllava2_64_c_0_45\": {\n      \"x\": 16,\n      \"y\": 36\n    },\n    \"ads_cllava2_64_c_0_48\": {\n      \"x\": 16,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_d_0_12\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_64_c_0_47\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_d_0_11\": {\n      \"x\": 28,\n      \"y\": 79\n    },\n    \"ads_cllava2_64_c_0_42\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_d_0_14\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_32_d_0_3\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_41\": {\n      \"x\": 16,\n      \"y\": 70\n    },\n    \"ads_cllava2_64_d_0_13\": {\n      \"x\": 28,\n      \"y\": 81\n    },\n    \"ads_cllava2_32_d_0_4\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_44\": {\n      \"x\": 16,\n      \"y\": 32\n    },\n    \"ads_cllava2_64_d_0_16\": {\n      \"x\": 28,\n      \"y\": 48\n    },\n    \"ads_cllava2_32_d_0_1\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_43\": {\n      \"x\": 16,\n      \"y\": 71\n    },\n    \"ads_cllava2_64_d_0_15\": {\n      \"x\": 28,\n      \"y\": 44\n    },\n    \"ads_cllava2_32_d_0_2\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_d_0_18\": {\n      \"x\": 28,\n      \"y\": 55\n    },\n    \"ads_cllava2_64_d_0_17\": {\n      \"x\": 28,\n      \"y\": 52\n    },\n    \"ads_cllava2_32_d_0_0\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_40\": {\n      \"x\": 16,\n      \"y\": 68\n    },\n    \"ads_cllava2_64_d_0_19\": {\n      \"x\": 28,\n      \"y\": 59\n    },\n    \"ads_cllava2_32_d_0_9\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_7\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_8\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_5\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_32_d_0_6\": {\n      \"x\": 17,\n      \"y\": 45\n    },\n    \"ads_cllava2_64_c_0_39\": {\n      \"x\": 16,\n      \"y\": 65\n    },\n    \"ads_cllava2_64_c_0_38\": {\n      \"x\": 16,\n      \"y\": 60\n    },\n    \"ads_cllava2_64_c_0_35\": {\n      \"x\": 16,\n      \"y\": 50\n    },\n    \"ads_cllava2_64_c_0_34\": {\n      \"x\": 16,\n      \"y\": 47\n    },\n    \"ads_cllava2_64_c_0_37\": {\n      \"x\": 16,\n      \"y\": 57\n    },\n    \"ads_cllava2_64_c_0_36\": {\n      \"x\": 16,\n      \"y\": 54\n    },\n    \"ads_cllava2_64_c_0_31\": {\n      \"x\": 16,\n      \"y\": 37\n    },\n    \"ads_cllava2_64_c_0_30\": {\n      \"x\": 16,\n      \"y\": 33\n    },\n    \"ads_cllava2_64_c_0_33\": {\n      \"x\": 16,\n      \"y\": 44\n    },\n    \"ads_cllava2_64_c_0_32\": {\n      \"x\": 16,\n      \"y\": 41\n    },\n    \"ads_cllava2_64_e_0_0\": {\n      \"x\": 18,\n      \"y\": 95\n    }\n  },\n  \"visualization\": {\n    \"layerCount\": 6,\n    \"angle\": 45,\n    \"layers\": {\n      \"0\": {\n        \"alpha\": 128,\n        \"ignoreMouse\": true\n      },\n      \"2\": {\n        \"ignoreMouse\": true\n      },\n      \"3\": {\n        \"ink\": \"ADD\",\n        \"ignoreMouse\": true\n      },\n      \"4\": {\n        \"alpha\": 128,\n        \"ignoreMouse\": true\n      },\n      \"5\": {\n        \"ink\": \"ADD\",\n        \"ignoreMouse\": true\n      }\n    },\n    \"animations\": {\n      \"0\": {\n        \"layers\": {\n          \"0\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"1\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"2\": {\n            \"loopCount\": 0,\n            \"frameRepeat\": 4,\n            \"frames\": [\n              0,\n              0,\n              0,\n              1,\n              2,\n              3,\n              4,\n              5,\n              6,\n              7,\n              8,\n              9,\n              10,\n              11,\n              12,\n              13,\n              14,\n              0,\n              0,\n              0,\n              15,\n              16,\n              17,\n              18,\n              19,\n              20,\n              21,\n              22,\n              23,\n              24,\n              25,\n              26,\n              27,\n              28,\n              29,\n              0,\n              0,\n              0,\n              30,\n              31,\n              32,\n              33,\n              34,\n              35,\n              36,\n              37,\n              38,\n              39,\n              40,\n              41,\n              42,\n              43,\n              0,\n              0,\n              0,\n              59,\n              60,\n              61,\n              62,\n              63,\n              64,\n              65,\n              66,\n              67,\n              68,\n              69,\n              70,\n              71,\n              72,\n              73,\n              74,\n              0,\n              0,\n              0,\n              75,\n              76,\n              77,\n              78,\n              79,\n              80,\n              81,\n              82,\n              83,\n              84,\n              85,\n              86,\n              87,\n              88,\n              89,\n              90,\n              0,\n              0,\n              0,\n              44,\n              45,\n              46,\n              47,\n              48,\n              49,\n              50,\n              51,\n              52,\n              53,\n              54,\n              55,\n              56,\n              57,\n              58,\n              0,\n              0,\n              0,\n              59,\n              60,\n              61,\n              62,\n              63,\n              64,\n              65,\n              66,\n              67,\n              68,\n              69,\n              70,\n              71,\n              72,\n              73,\n              74,\n              0,\n              0,\n              0,\n              1,\n              2,\n              3,\n              4,\n              5,\n              6,\n              7,\n              8,\n              9,\n              10,\n              11,\n              12,\n              13,\n              14,\n              0,\n              0,\n              0,\n              75,\n              76,\n              77,\n              78,\n              79,\n              80,\n              81,\n              82,\n              83,\n              84,\n              85,\n              86,\n              87,\n              88,\n              89,\n              90\n            ]\n          },\n          \"3\": {\n            \"loopCount\": 0,\n            \"frameRepeat\": 4,\n            \"frames\": [\n              0,\n              0,\n              0,\n              1,\n              2,\n              3,\n              4,\n              5,\n              6,\n              7,\n              8,\n              9,\n              10,\n              11,\n              12,\n              13,\n              14,\n              0,\n              0,\n              0,\n              15,\n              16,\n              17,\n              18,\n              19,\n              20,\n              21,\n              22,\n              23,\n              24,\n              25,\n              26,\n              27,\n              28,\n              29,\n              0,\n              0,\n              0,\n              30,\n              31,\n              32,\n              33,\n              34,\n              35,\n              36,\n              37,\n              38,\n              39,\n              40,\n              41,\n              42,\n              43,\n              0,\n              0,\n              0,\n              59,\n              60,\n              61,\n              62,\n              63,\n              64,\n              65,\n              66,\n              67,\n              68,\n              69,\n              70,\n              71,\n              72,\n              73,\n              74,\n              0,\n              0,\n              0,\n              75,\n              76,\n              77,\n              78,\n              79,\n              80,\n              81,\n              82,\n              83,\n              84,\n              85,\n              86,\n              87,\n              88,\n              89,\n              90,\n              0,\n              0,\n              0,\n              44,\n              45,\n              46,\n              47,\n              48,\n              49,\n              50,\n              51,\n              52,\n              53,\n              54,\n              55,\n              56,\n              57,\n              58,\n              0,\n              0,\n              0,\n              59,\n              60,\n              61,\n              62,\n              63,\n              64,\n              65,\n              66,\n              67,\n              68,\n              69,\n              70,\n              71,\n              72,\n              73,\n              74,\n              0,\n              0,\n              0,\n              1,\n              2,\n              3,\n              4,\n              5,\n              6,\n              7,\n              8,\n              9,\n              10,\n              11,\n              12,\n              13,\n              14,\n              0,\n              0,\n              0,\n              75,\n              76,\n              77,\n              78,\n              79,\n              80,\n              81,\n              82,\n              83,\n              84,\n              85,\n              86,\n              87,\n              88,\n              89,\n              90\n            ]\n          },\n          \"4\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"5\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"6\": {\n            \"frames\": [\n              0\n            ]\n          }\n        }\n      }\n    }\n  }\n}",
+			"file": "resources/furnitures/ads_cllava2/ads_cllava2.json",
+			"file_size": 13097,
+			"file_write_time": 131378797602302946,
+			"settings":
+			{
+				"buffer_size": 26630,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/room/index.ts",
+			"settings":
+			{
+				"buffer_size": 80,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/room/RoomSprite.ts",
+			"settings":
+			{
+				"buffer_size": 3758,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/furniture/FurnitureSprite.ts",
+			"settings":
+			{
+				"buffer_size": 3636,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/main/furniture/Furniture.ts",
+			"settings":
+			{
+				"buffer_size": 6232,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n  \"type\": \"furniture\",\n  \"name\": \"ads_calip_fan\",\n  \"visualizationType\": \"furniture_animated\",\n  \"logicType\": \"furniture_multistate\",\n  \"spritesheet\": \"ads_calip_fan_spritesheet.json\",\n  \"dimensions\": {\n    \"x\": 1,\n    \"y\": 1,\n    \"z\": 0.0\n  },\n  \"directions\": [\n    0,\n    90,\n    180,\n    270\n  ],\n  \"assets\": {\n    \"ads_calip_fan_32_d_6_0\": {\n      \"source\": \"ads_calip_fan_32_d_2_0\",\n      \"x\": 0,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_0_0\": {\n      \"source\": \"ads_calip_fan_32_c_2_0\",\n      \"x\": 4,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_0_1\": {\n      \"source\": \"ads_calip_fan_32_c_2_1\",\n      \"x\": 4,\n      \"y\": 31,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_2_2\": {\n      \"x\": 5,\n      \"y\": 31\n    },\n    \"ads_calip_fan_32_c_4_0\": {\n      \"source\": \"ads_calip_fan_32_c_2_0\",\n      \"x\": 4,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_sd_0_0\": {\n      \"source\": \"ads_calip_fan_32_sd_2_0\",\n      \"x\": 10,\n      \"y\": 1,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_2_3\": {\n      \"x\": 4,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_c_4_1\": {\n      \"source\": \"ads_calip_fan_32_c_2_1\",\n      \"x\": 4,\n      \"y\": 31,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_0_2\": {\n      \"source\": \"ads_calip_fan_32_c_2_2\",\n      \"x\": 5,\n      \"y\": 31,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_2_0\": {\n      \"x\": 4,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_c_0_3\": {\n      \"source\": \"ads_calip_fan_32_c_2_3\",\n      \"x\": 4,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_2_1\": {\n      \"x\": 4,\n      \"y\": 31\n    },\n    \"ads_calip_fan_32_c_6_2\": {\n      \"source\": \"ads_calip_fan_32_c_2_2\",\n      \"x\": 5,\n      \"y\": 31\n    },\n    \"ads_calip_fan_32_sd_4_0\": {\n      \"source\": \"ads_calip_fan_32_sd_2_0\",\n      \"x\": 10,\n      \"y\": 1,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_6_3\": {\n      \"source\": \"ads_calip_fan_32_c_2_3\",\n      \"x\": 4,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_c_4_2\": {\n      \"source\": \"ads_calip_fan_32_c_2_2\",\n      \"x\": 5,\n      \"y\": 31,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_6_0\": {\n      \"source\": \"ads_calip_fan_32_c_2_0\",\n      \"x\": 4,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_sd_2_0\": {\n      \"x\": 10,\n      \"y\": 1\n    },\n    \"ads_calip_fan_32_c_4_3\": {\n      \"source\": \"ads_calip_fan_32_c_2_3\",\n      \"x\": 4,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_c_6_1\": {\n      \"source\": \"ads_calip_fan_32_c_2_1\",\n      \"x\": 4,\n      \"y\": 31\n    },\n    \"ads_calip_fan_32_sd_6_0\": {\n      \"source\": \"ads_calip_fan_32_sd_2_0\",\n      \"x\": 10,\n      \"y\": 1\n    },\n    \"ads_calip_fan_icon_a\": {\n      \"x\": 10,\n      \"y\": 15\n    },\n    \"ads_calip_fan_32_d_0_0\": {\n      \"source\": \"ads_calip_fan_32_d_2_0\",\n      \"x\": 0,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_d_2_0\": {\n      \"x\": 0,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_d_4_0\": {\n      \"source\": \"ads_calip_fan_32_d_2_0\",\n      \"x\": 0,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_d_0_0\": {\n      \"source\": \"ads_calip_fan_64_d_2_0\",\n      \"x\": 5,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_d_2_0\": {\n      \"x\": 5,\n      \"y\": 61\n    },\n    \"ads_calip_fan_64_d_4_0\": {\n      \"source\": \"ads_calip_fan_64_d_2_0\",\n      \"x\": 5,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_d_6_0\": {\n      \"source\": \"ads_calip_fan_64_d_2_0\",\n      \"x\": 5,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_6_3\": {\n      \"source\": \"ads_calip_fan_64_c_2_3\",\n      \"x\": 7,\n      \"y\": 63\n    },\n    \"ads_calip_fan_64_sd_4_0\": {\n      \"source\": \"ads_calip_fan_64_sd_2_0\",\n      \"x\": 19,\n      \"y\": 2,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_4_3\": {\n      \"source\": \"ads_calip_fan_64_c_2_3\",\n      \"x\": 7,\n      \"y\": 63,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_6_1\": {\n      \"source\": \"ads_calip_fan_64_c_2_1\",\n      \"x\": 6,\n      \"y\": 62\n    },\n    \"ads_calip_fan_64_c_6_2\": {\n      \"source\": \"ads_calip_fan_64_c_2_2\",\n      \"x\": 8,\n      \"y\": 64\n    },\n    \"ads_calip_fan_64_sd_2_0\": {\n      \"x\": 19,\n      \"y\": 2\n    },\n    \"ads_calip_fan_64_sd_6_0\": {\n      \"source\": \"ads_calip_fan_64_sd_2_0\",\n      \"x\": 19,\n      \"y\": 2\n    },\n    \"ads_calip_fan_64_b_4_0\": {\n      \"source\": \"ads_calip_fan_64_b_2_0\",\n      \"x\": 5,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_b_4_1\": {\n      \"source\": \"ads_calip_fan_64_b_2_1\",\n      \"x\": 8,\n      \"y\": 64,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_b_6_0\": {\n      \"source\": \"ads_calip_fan_64_b_2_0\",\n      \"x\": 5,\n      \"y\": 61\n    },\n    \"ads_calip_fan_64_b_6_1\": {\n      \"source\": \"ads_calip_fan_64_b_2_1\",\n      \"x\": 8,\n      \"y\": 64\n    },\n    \"ads_calip_fan_64_b_0_0\": {\n      \"source\": \"ads_calip_fan_64_b_2_0\",\n      \"x\": 5,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_b_0_1\": {\n      \"source\": \"ads_calip_fan_64_b_2_1\",\n      \"x\": 8,\n      \"y\": 64,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_b_2_0\": {\n      \"x\": 5,\n      \"y\": 61\n    },\n    \"ads_calip_fan_64_b_2_1\": {\n      \"x\": 8,\n      \"y\": 64\n    },\n    \"ads_calip_fan_64_c_0_1\": {\n      \"source\": \"ads_calip_fan_64_c_2_1\",\n      \"x\": 6,\n      \"y\": 62,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_0_2\": {\n      \"source\": \"ads_calip_fan_64_c_2_2\",\n      \"x\": 8,\n      \"y\": 64,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_2_0\": {\n      \"x\": 8,\n      \"y\": 62\n    },\n    \"ads_calip_fan_64_c_0_0\": {\n      \"source\": \"ads_calip_fan_64_c_2_0\",\n      \"x\": 8,\n      \"y\": 62,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_2_3\": {\n      \"x\": 7,\n      \"y\": 63\n    },\n    \"ads_calip_fan_64_c_4_1\": {\n      \"source\": \"ads_calip_fan_64_c_2_1\",\n      \"x\": 6,\n      \"y\": 62,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_4_2\": {\n      \"source\": \"ads_calip_fan_64_c_2_2\",\n      \"x\": 8,\n      \"y\": 64,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_6_0\": {\n      \"source\": \"ads_calip_fan_64_c_2_0\",\n      \"x\": 8,\n      \"y\": 62\n    },\n    \"ads_calip_fan_64_sd_0_0\": {\n      \"source\": \"ads_calip_fan_64_sd_2_0\",\n      \"x\": 19,\n      \"y\": 2,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_0_3\": {\n      \"source\": \"ads_calip_fan_64_c_2_3\",\n      \"x\": 7,\n      \"y\": 63,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_c_2_1\": {\n      \"x\": 6,\n      \"y\": 62\n    },\n    \"ads_calip_fan_64_c_2_2\": {\n      \"x\": 8,\n      \"y\": 64\n    },\n    \"ads_calip_fan_64_c_4_0\": {\n      \"source\": \"ads_calip_fan_64_c_2_0\",\n      \"x\": 8,\n      \"y\": 62,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_b_6_1\": {\n      \"source\": \"ads_calip_fan_32_b_2_1\",\n      \"x\": 4,\n      \"y\": 32\n    },\n    \"ads_calip_fan_32_a_6_0\": {\n      \"x\": 9,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_a_4_0\": {\n      \"source\": \"ads_calip_fan_32_a_2_0\",\n      \"x\": 9,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_a_2_0\": {\n      \"x\": 9,\n      \"y\": 30\n    },\n    \"ads_calip_fan_32_a_0_0\": {\n      \"source\": \"ads_calip_fan_32_a_6_0\",\n      \"x\": 9,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_a_0_0\": {\n      \"source\": \"ads_calip_fan_64_a_6_0\",\n      \"x\": 17,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_b_2_1\": {\n      \"x\": 4,\n      \"y\": 32\n    },\n    \"ads_calip_fan_32_b_4_0\": {\n      \"source\": \"ads_calip_fan_32_b_2_0\",\n      \"x\": 0,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_b_4_1\": {\n      \"source\": \"ads_calip_fan_32_b_2_1\",\n      \"x\": 4,\n      \"y\": 32,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_a_6_0\": {\n      \"x\": 17,\n      \"y\": 61\n    },\n    \"ads_calip_fan_32_b_6_0\": {\n      \"source\": \"ads_calip_fan_32_b_2_0\",\n      \"x\": 0,\n      \"y\": 30\n    },\n    \"ads_calip_fan_64_a_4_0\": {\n      \"source\": \"ads_calip_fan_64_a_2_0\",\n      \"x\": 17,\n      \"y\": 61,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_b_0_0\": {\n      \"source\": \"ads_calip_fan_32_b_2_0\",\n      \"x\": 0,\n      \"y\": 30,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_32_b_0_1\": {\n      \"source\": \"ads_calip_fan_32_b_2_1\",\n      \"x\": 4,\n      \"y\": 32,\n      \"flipH\": true\n    },\n    \"ads_calip_fan_64_a_2_0\": {\n      \"x\": 17,\n      \"y\": 61\n    },\n    \"ads_calip_fan_32_b_2_0\": {\n      \"x\": 0,\n      \"y\": 30\n    }\n  },\n  \"visualization\": {\n    \"layerCount\": 4,\n    \"angle\": 45,\n    \"layers\": {\n      \"1\": {\n        \"alpha\": 77\n      }\n    },\n    \"directions\": {\n      \"0\": {\n        \"layers\": {\n          \"1\": {\n            \"x\": 16,\n            \"y\": -6,\n            \"z\": -100.0\n          },\n          \"2\": {\n            \"x\": 16,\n            \"y\": -6,\n            \"z\": -100.0\n          }\n        }\n      },\n      \"6\": {\n        \"layers\": {\n          \"1\": {\n            \"x\": -16,\n            \"y\": -6,\n            \"z\": -100.0\n          },\n          \"2\": {\n            \"x\": -16,\n            \"y\": -6,\n            \"z\": -100.0\n          }\n        }\n      }\n    },\n    \"animations\": {\n      \"0\": {\n        \"layers\": {\n          \"0\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"1\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"2\": {\n            \"frames\": [\n              0\n            ]\n          },\n          \"3\": {\n            \"frames\": [\n              0\n            ]\n          }\n        }\n      },\n      \"1\": {\n        \"layers\": {\n          \"1\": {\n            \"frames\": [\n              1\n            ]\n          },\n          \"2\": {\n            \"loopCount\": 0,\n            \"frameRepeat\": 2,\n            \"frames\": [\n              1,\n              2,\n              3\n            ]\n          }\n        }\n      }\n    }\n  }\n}",
+			"file": "/D/ffconverter/ads_calip_fan/ads_calip_fan.json",
+			"file_size": 5883,
+			"file_write_time": 131378797822777379,
+			"settings":
+			{
+				"buffer_size": 9575,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "json",
+		"selected_items":
+		[
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"material theme: activate",
+				"Material Theme: Activate theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"cpakage",
+				"Package Control: Remove Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/html5client/client",
+		"/D/html5client/client/resources/furnitures/ads_cllava2",
+		"/D/html5client/client/src",
+		"/D/html5client/client/src/main",
+		"/D/html5client/client/src/main/furniture",
+		"/D/html5client/client/src/main/gui",
+		"/D/html5client/client/src/main/gui/navigator",
+		"/D/html5client/client/src/main/loaders",
+		"/D/html5client/client/src/main/room"
+	],
+	"file_history":
+	[
+		"/D/ffconverter.zip",
+		"/C/Users/jospi/Desktop/temp/VoteOption.php",
+		"/D/html5client/client/src/main/gui/navigator/NavigatorWindow.ts",
+		"/D/html5client/client/src/main/gui/hotelview/HotelViewWindow.ts",
+		"/D/html5client/client/src/main/gui/mainmenu/MainMenuWindow.ts",
+		"/D/html5client/client/src/main/gui/navigator/template.ts",
+		"/D/html5client/client/src/main/gui/IWindow.ts",
+		"/D/html5client/client/src/main/furniture/Furniture.ts",
+		"/D/html5client/client/resources/index.html",
+		"/D/html5client/client/src/main/furniture/index.ts",
+		"/D/html5client/client/src/main/furniture/FurnitureSprite.ts",
+		"/D/html5client/client/src/main/index.ts",
+		"/D/html5client/client/src/main/room/RoomSprite.ts",
+		"/D/html5client/client/src/main/gui/index.ts",
+		"/D/html5client/client/resources/assets/h5client-theme/h5client-theme.json",
+		"/D/html5client/client/src/main/gui/mainmenu/template.ts",
+		"/D/repositories/ffconverter/.gitignore",
+		"/D/repositories/ffconverter/.git/config",
+		"/D/html5client/client/src/main/gui/navigator/NavigatorPrivateItem.ts",
+		"/D/html5client/client/resources/assets/h5client-theme/h5client-spritesheet.json",
+		"/C/Users/jospi/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings",
+		"/C/Users/jospi/AppData/Roaming/Sublime Text 3/Packages/TypeScript/Preferences.sublime-settings",
+		"/C/Users/jospi/AppData/Roaming/Sublime Text 3/Packages/User/TypeScript.sublime-settings",
+		"/D/html5client/client/resources/assets/images/floor_tile.png",
+		"/D/Underworld Evolution (2006) [1080p]/Underworld.Evolution.2006.1080p.BrRip.x264.YIFY.srt",
+		"/D/html5client/client/resources/furnitures/ads_cllava2/ads_cllava2.json",
+		"/D/html5client/client/src/main/furniture/FurnitureData.ts",
+		"/D/html5client/client/resources/furnitures/ads_calip_cola/ads_calip_cola.atlas",
+		"/D/html5client/client/resources/furnitures/ads_calip_cola/ads_calip_cola.json",
+		"/D/html5client/client/resources/furnitures/ads_calip_cola/ads_calip_cola_spritesheet.json",
+		"/D/ffconverter/ads_calip_cola/ads_calip_cola_spritesheet.json",
+		"/C/Users/jospi/Downloads/Processing-Viewer-Furniture-master/Processing-Viewer-Furniture-master/furnitures/ads_calip_fan/ads_calip_fan_ads_calip_fan_assets.xml",
+		"/D/html5client/client/resources/furnitures/ads_calip_fan/ads_calip_fan.json",
+		"/D/html5client/client/resources/furnitures/ads_calip_fan/ads_calip_fan_spritesheet.json",
+		"/D/html5client/client/gulpfile.js",
+		"/D/html5client/client/src/main/loaders/FurnitureLoader.ts",
+		"/D/html5client/client/src/main/loaders/index.ts",
+		"/D/html5client/client/src/main/furniture/furnitureData.ts",
+		"/d/ffconverter/ads_711/ads_711.json",
+		"/D/html5client/client/builds/development/assets/kenney-theme/kenney-theme.json",
+		"/D/html5client/client/resources/furnitures/ads_calip_fan/ads_calip_fan.atlas",
+		"/D/ffconverter/toilet_red/toilet_red.atlas",
+		"/D/ffconverter/bed_budgetb/bed_budgetb.atlas",
+		"/D/ffconverter/ads_calip_lava/ads_calip_lava_spritesheet.json",
+		"/D/army_c15_officetent.swf",
+		"/D/html5client/client/src/main/CLIENT.ts",
+		"/D/html5client/client/src/main/gui/navigator/navigator.tmp",
+		"/D/html5client/client/src/main/furniture/furniture.ts",
+		"/D/ffconverter/ads_calip_lava/ads_calip_lava.json",
+		"/D/ffconverter/ads_capri_tree/ads_capri_tree.json",
+		"/D/ffconverter/ads_calip_pool/ads_calip_pool.json",
+		"/D/ffconverter/army_c15_officetent/army_c15_officetent.json",
+		"/D/ffconverter/ads_chups/ads_chups.json",
+		"/D/ffconverter/ads_cheetos/ads_cheetos.json",
+		"/D/html5client/client/resources/stats.min.js",
+		"/D/html5client/client/builds/development/EZGUI.js",
+		"/D/html5client/client/src/main/loaders/furnitureParser.ts",
+		"/D/ffconverter/bed_armas_one/bed_armas_one.json",
+		"/D/html5client/client/builds/development/index.html",
+		"/D/html5client/client/builds/development/index.js",
+		"/D/ffconverter/jukebox/jukebox.json",
+		"/D/html5client/client/client.sublime-project",
+		"/D/html5client/client/package.json",
+		"/D/army_c15_officetent/army_c15_officetent_army_c15_officetent_visualization.xml",
+		"/D/army_c15_officetent/army_c15_officetent_army_c15_officetent_logic.xml",
+		"/D/army_c15_officetent/army_c15_officetent_army_c15_officetent_assets.xml",
+		"/D/html5client/client/src/definitions/EZGUI.d.ts",
+		"/D/html5client/client/src/index.ts",
+		"/D/html5client/client/src/index.html",
+		"/D/html5client/client/tsconfig.json",
+		"/D/html5client/client/src/greeter.ts",
+		"/D/html5client/client/src/js/index.ts",
+		"/D/xampp/htdocs/gelre-airport/zoekresultaten.php",
+		"/D/xampp/htdocs/gelre-airport/index.php",
+		"/D/xampp/htdocs/gelre-airport/kiesbalie.php",
+		"/D/xampp/htdocs/gelre-airport/zoeken.php",
+		"/D/xampp/htdocs/gelre-airport/inchecken.php",
+		"/D/xampp/htdocs/gelre-airport/global.php",
+		"/D/cloud_egg.swf",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/repositories/ica_presents/vendor/lusitanian/oauth/src/OAuth/Common/Consumer/Credentials.php",
+		"/D/repositories/ica_presents/app/controllers/FacebookController.php",
+		"/D/repositories/ica_presents/app/routes.php",
+		"/D/repositories/ica_presents/app/controllers/ContentController.php",
+		"/D/repositories/ica_presents/app/controllers/MediaController.php",
+		"/D/repositories/ica_presents/app/config/app.php",
+		"/D/repositories/ica_presents/app/config/oauth.php",
+		"/D/repositories/ica_presents/composer.json",
+		"/D/A3-2FTDGF-T8NBGC-24F8B-65DFC-RAWL2-BADJ9",
+		"/D/repositories/ica_presents/vendor/lusitanian/oauth/src/OAuth/OAuth2/Service/Facebook.php",
+		"/D/repositories/ica_presents/public/js/scripts.js",
+		"/D/repositories/ica_presents/app/controllers/ProjectController.php",
+		"/D/repositories/ica_presents/vendor/laravel/framework/src/Illuminate/Foundation/start.php",
+		"/D/repositories/ica_presents/app/views/frontend/privacybeleid.blade.php",
+		"/D/facebookNumber.js",
+		"/D/repositories/ica_presents/public/sass/pages/_privacypage.scss",
+		"/D/repositories/ica_presents/public/sass/main.scss",
+		"/D/repositories/ica_presents/app/views/frontend/default/create-project.blade.php",
+		"/D/repositories/ica_presents/app/storage/views/5d9220788f6f240471397438a7640c70",
+		"/D/repositories/ica_presents/app/views/frontend/default/default.blade.php",
+		"/D/repositories/ica_presents/app/views/frontend/default/event.blade.php",
+		"/D/repositories/ica_presents/app/views/frontend/default/project.blade.php",
+		"/D/repositories/ica_presents/app/views/frontend/default/projects.blade.php",
+		"/D/repositories/ica_presents/app/views/frontend/default/teachers-vote.blade.php",
+		"/D/repositories/ica_presents/app/views/frontend/default/visitorConfirmationPage.blade.php",
+		"/D/repositories/ica_presents/public/sass/elements/_footer.scss",
+		"/D/repositories/ica_presents/bootstrap/start.php",
+		"/D/repositories/ica_presents/app/database/migrations/2016_11_22_091424_initiate.php",
+		"/D/repositories/ica_presents/app/storage/views/ed360956648dc3bdfc04dc0ea7352466",
+		"/C/Users/jospi/AppData/Roaming/Microsoft/Signatures/B302.htm",
+		"/D/repositories/nooteboom/bootstrap/start.php",
+		"/D/repositories/nooteboom/vendor/laravel/framework/src/Illuminate/Foundation/start.php",
+		"/D/repositories/nooteboom/app/config/jos/app.php",
+		"/D/xampp/apache/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"d:/ffconverter",
+			"<current file>",
+			"",
+			"D:\\repositories\\ica_presents",
+			"D:\\repositories\\nooteboom",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"Container",
+			"\"colors\":",
+			"\"directions\":",
+			".png",
+			"new PIXI.Text(",
+			"pixi",
+			"'",
+			"extension_dir",
+			"deleteFileFromCurrentProject",
+			"deleteUploadedFile",
+			"deleteUploadedItem",
+			"deleteUploadedFile",
+			"deleteUploadedItem",
+			".ajax",
+			"deleteUploadedItem",
+			"storeProject",
+			"facebook",
+			"<p>Copyright &copy; 2016 <strong>ICA Presents</strong> / <a href=\"/privacybeleid\">Privacy Beleid</a></p>",
+			"footer",
+			"error_reporting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\"",
+			"<p>Copyright &copy; 2016 <strong>ICA Presents</strong> | <a href=\"/privacybeleid\">Privacy Beleid</a></p>",
+			"getCalculation"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3025,
+								3025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 362.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/gui/index.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1260,
+								1260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/gui/navigator/NavigatorWindow.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/gui/navigator/template.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main/index.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4035,
+								4035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3822.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/furnitures/ads_cllava2/ads_cllava2.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18350,
+								18350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 33690.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/main/room/index.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/main/room/RoomSprite.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/main/furniture/FurnitureSprite.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3636,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3459,
+								3459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2870.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/main/furniture/Furniture.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4047,
+								4047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/ffconverter/ads_calip_fan/ads_calip_fan.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 7280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "client.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 374.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 356.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

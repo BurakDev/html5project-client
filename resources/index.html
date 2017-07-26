@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+    <head>
+        <title>H5Client</title>
+
+        <style>
+            html,
+            body {
+                margin: 0;
+            }
+
+            html,
+            body,
+            canvas#pixi-canvas {
+                display: block;
+                width: 100%;
+                height: 100%;
+            }
+        </style>
+
+        <script src="pixi.min.js"></script>
+        <script src="EZGUI.js"></script>
+        <script src="stats.min.js"></script>
+        <script src="index.js"></script>
+    </head>
+    <body>
+        <canvas id="pixi-canvas"></canvas>
+
+        <script>
+            function enableStats(app) {
+                var stats = new Stats();
+                stats.showPanel(0);
+                stats.dom.style.left = "";
+                stats.dom.style.right = 0;
+                document.body.appendChild(stats.dom);
+                
+                app.renderer.on("postrender", () => {
+                    stats.update();
+                });
+            }
+
+            var canvas = document.getElementById("pixi-canvas");
+
+            CLIENT.initialize(window, canvas);
+
+            enableStats(CLIENT.application);
+
+        </script>
+    </body>
+</html>
